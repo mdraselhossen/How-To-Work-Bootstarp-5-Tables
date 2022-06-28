@@ -1,0 +1,26 @@
+1.table
+<thead class="table-dark">
+2.table-dark
+3.table-striped
+4.table-bordered
+5.table-hover
+6.table-borderless
+
+
+Contextual Classes
+.table-primary	
+.table-success	
+.table-danger	
+.table-info
+.table-warning	
+.table-active	
+.table-secondary	
+.table-light	
+
+Responsive Tables
+1.Responsive Tables
+2.Responsive Tables-sm
+3.Responsive Tables-md
+4.Responsive Tables-lg
+5.Responsive Tables-xl
+6.Responsive Tables-xxl
